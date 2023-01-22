@@ -2,7 +2,7 @@ import numpy as np
 
 def main():
     
-    N = 100 # sidelength of grid
+    N = 1000 # sidelength of grid
     Ns = N*N # number of spins
    
     model = 1 # 0 = Ising, 1 = Antiferromagnetic Ising, 2 = Spin Glass
